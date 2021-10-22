@@ -33,6 +33,15 @@ namespace _110_1Practice4_1
         protected global::System.Web.UI.WebControls.Label lb_Num;
 
         /// <summary>
+        /// lb_Res 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lb_Res;
+
+        /// <summary>
         /// btn_ShowNum 控制項。
         /// </summary>
         /// <remarks>
@@ -67,5 +76,14 @@ namespace _110_1Practice4_1
         /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
         /// </remarks>
         protected global::System.Web.UI.WebControls.HyperLink hk_Link;
+
+        /// <summary>
+        /// lb_Msg 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lb_Msg;
     }
 }
